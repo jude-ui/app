@@ -1,1 +1,0 @@
-System.register(["./index-legacy.9266bbc7.js"],(function(t,e){"use strict";var n,s,r,c,u,i,o;return{setters:[t=>{n=t.S,s=t.i,r=t.s,c=t.e,u=t.a,i=t.n,o=t.d}],execute:function(){function e(t){let e;return{c(){e=c("h2"),e.textContent="페이지를 찾을 수 없습니다."},m(t,n){u(t,e,n)},p:i,i:i,o:i,d(t){t&&o(e)}}}t("default",class extends n{constructor(t){super(),s(this,t,null,e,r,{})}})}}}));
