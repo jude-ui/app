@@ -1,0 +1,1 @@
+import{S as o,i as r,s as i,e as u,a as c,n as a,d as l}from"./index.bae3160c.js";function f(n){let e;return{c(){e=u("h2"),e.textContent="SubPage"},m(t,s){c(t,e,s)},p:a,i:a,o:a,d(t){t&&l(e)}}}class p extends o{constructor(e){super(),r(this,e,null,f,i,{})}}export{p as default};

@@ -1,5 +1,10 @@
 <script>
-  import Child from '@/components/Child.svelte'
+  import Router from 'svelte-spa-router'
+  import routes from '@/routes/index.js'
+  import Header from '@/components/Header.svelte'
+  import Footer from '@/components/Footer.svelte'
 </script>
-<h1>App</h1>
-<Child />
+
+<Header />
+<Router {routes} />
+<Footer />
