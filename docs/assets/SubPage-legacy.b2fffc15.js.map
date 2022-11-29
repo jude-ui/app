@@ -1,0 +1,1 @@
+{"version":3,"file":"SubPage-legacy.b2fffc15.js","sources":["../../src/routes/SubPage.svelte"],"sourcesContent":["<script>\n  import { fade } from 'svelte/transition'\n</script>\n\n<div in:fade>\n  <h2>SubPage</h2>\n</div>\n\n<style>\n  h2{\n    font-size: 20px;\n    color: purple;\n  }\n</style>"],"names":["insert","target","div","anchor"],"mappings":"mbAIAA,EAEKC,EAAAC,EAAAC"}
