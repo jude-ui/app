@@ -1,1 +1,0 @@
-import{S as r,i as o,s as c,e as l,a as d,n,b as f,d as u,c as _,f as m}from"./index.d05f963d.js";function p(s){let e,t;return{c(){e=l("div"),e.innerHTML="<h2>SubPage</h2>"},m(a,i){d(a,e,i)},p:n,i(a){t||f(()=>{t=_(e,m,{}),t.start()})},o:n,d(a){a&&u(e)}}}class h extends r{constructor(e){super(),o(this,e,null,p,c,{})}}export{h as default};

@@ -9,3 +9,13 @@
   <div>params.id : {params.id}</div>
   <div>location : {$location}</div>
 </div>
+
+<style>
+  h3{
+    font-size: 20px;
+    color: royalblue;
+  }
+  div{
+    font-size:14px;
+  }
+</style>
