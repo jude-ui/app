@@ -15,7 +15,7 @@
      * To have warnings / errors of the Svelte compiler at the
      * correct position, enable source maps by default.
      */
-    "sourceMap": true,
+    // "sourceMap": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
@@ -23,7 +23,7 @@
      * Typecheck JS in `.svelte` and `.js` files by default.
      * Disable this if you'd like to use dynamic types.
      */
-    "checkJs": true,
+    // "checkJs": true,
     "baseUrl": "./",
     "paths": {
       "@/*": ["src/*"]
