@@ -5,7 +5,7 @@ import legacy from "@vitejs/plugin-legacy";
 // https://vitejs.dev/config/
 export default defineConfig({
   css: {
-    devSourcemap: true
+    devSourcemap: true,
   },
   plugins: [
     svelte(),

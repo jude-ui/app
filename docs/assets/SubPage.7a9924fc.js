@@ -1,1 +1,0 @@
-import{S as i,i as r,s as c,e as o,a as _,n as s,b as d,d as u,c as f,f as p}from"./index.f5fd230b.js";function v(n){let e,a;return{c(){e=o("div"),e.innerHTML='<h2 class="svelte-1tch80z">SubPage</h2>'},m(t,l){_(t,e,l)},p:s,i(t){a||d(()=>{a=f(e,p,{}),a.start()})},o:s,d(t){t&&u(e)}}}class b extends i{constructor(e){super(),r(this,e,null,v,c,{})}}export{b as default};
