@@ -22,5 +22,6 @@ git commit -m 'deploy'
 
 # https://<USERNAME>.github.io/<REPO> 에 배포
 # git push -f git@github.com:<USERNAME>/<REPO>.git main:gh-pages
+git push -f https://github.com/jude-ui/app.git router:gh-pages
 
 cd -
