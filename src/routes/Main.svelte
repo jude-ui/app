@@ -6,7 +6,6 @@
   <h2>Main</h2>
   <img src={svelteLogo} alt=""><!-- assets -->
   <img src="./vite.svg" alt=""><!-- public -->
-  <div style="display:none;overflow:hidden;margin:0">test test</div>
 </div>
 
 <style>
