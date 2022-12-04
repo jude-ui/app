@@ -12,10 +12,9 @@ cd docs
 # CNAME 파일을 이용해 커스텀 도메인을 지정할 수도 있습니다.
 # echo 'www.example.com' > CNAME
 
-# git init
-# git checkout -b main
-# git add -A
-# git commit -m 'deploy'
+git init
+git add -A
+git commit -m '$1'
 
 # https://<USERNAME>.github.io 에 배포
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
